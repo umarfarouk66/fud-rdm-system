@@ -1,0 +1,4 @@
+star_id,ra,dec,spectral_type,flux_erg
+STAR_001,180.25,+45.12,O5V,1.45e-11
+STAR_002,180.29,+45.15,B2Ia,8.92e-12
+STAR_003,180.35,+45.20,G2V,4.12e-12

@@ -1,0 +1,14 @@
+[
+    {
+        "id": "BKP-20260825_160344",
+        "type": "database_snapshot",
+        "filename": "rdm_db_backup_20260825_160344.sql",
+        "file_size": 45026,
+        "checksum": "d7f49d8e8a8b6a39e641c71a16b0b90bab6d403b0ba623c3ae0dafbceff48e1e",
+        "status": "verified",
+        "created_at": "2026-08-25 16:03:44",
+        "created_by": 134,
+        "tables_count": 18,
+        "last_verified_at": "2026-08-25 16:03:44"
+    }
+]

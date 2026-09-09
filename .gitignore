@@ -1,0 +1,43 @@
+# Environment and local configurations
+.env
+.env.*
+config/database.local.php
+config/local.php
+
+# Storage, Uploads, and User Data (Keep directories via .gitkeep)
+storage/uploads/*
+!storage/uploads/.gitkeep
+storage/backups/*
+!storage/backups/.gitkeep
+uploads/*
+!uploads/.gitkeep
+
+# Temporary and Scratch Files
+scratch/
+scratch_*.php
+*.tmp
+*.log
+
+# Logs and Caches
+*.log
+logs/
+cache/
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and Editor Files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Vendor / Dependencies
+vendor/
+node_modules/
